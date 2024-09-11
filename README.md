@@ -1,0 +1,1 @@
+# magento-latam-sample-static
